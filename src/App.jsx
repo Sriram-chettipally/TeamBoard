@@ -62,7 +62,7 @@ function App() {
         <section className="welcome">
           <div>
             <p className="eyebrow">MONDAY WORKSPACE</p>
-            <h1>Welcome to TeamBoard!</h1>
+            <h1>TeamBoard Workspace</h1>
             <p className="subtitle">Plan your work, track tasks, and celebrate progress together.</p>          </div>
           <div className="date-card"><span>YOUR PROJECT</span><strong>TeamBoard</strong><small>Let's make progress today.</small></div>
         </section>
